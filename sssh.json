@@ -18,15 +18,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "device456",
-        "key": "f4b93f2790",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "821bc904646e351d",
-        "key": "84bb1fb92b",
-        "expirydate": "27-12-2025",
+        "key": "f4b93f2790",
+        "expirydate": "28-12-2025",
         "Allowoffline": false
     },
     {
