@@ -6,12 +6,6 @@
         "Allowoffline": true
     },
     {
-        "device_id": "13bf0c8687ceb5d3",
-        "key": "78ajfk65gs",
-        "expirydate": "15-01-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "6b57e5ac71937271",
         "key": "33-455bkg-67",
         "expirydate": "20-01-2026",
@@ -32,7 +26,7 @@
     
     {
         "device_id": "13bf0c8687ceb5d3",
-        "key": "3a4a55jb67",
+        "key": "46ajf68hbj",
         "expirydate": "17-01-2026",
         "Allowoffline": false
     },
