@@ -1471,7 +1471,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "88a6fcc8c6790a50",
+        "device_id": "8d27f086ef9e9e53",
         "key": "trail",
         "expirydate": "10-03-2026",
         "Allowoffline": false
@@ -1480,12 +1480,6 @@
         "device_id": "818dbd5a740f3ac9",
         "key": "trail123",
         "expirydate": "15-03-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "8d27f086ef9e9e53",
-        "key": "Face6",
-        "expirydate": "10-03-2026",
         "Allowoffline": false
     },
   ]
