@@ -91,15 +91,15 @@
         "Allowoffline": false
     },
     {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
+        "device_id": "8dc7c21cf128e0ac",
+        "key": "5e35921861",
+        "expirydate": "04-04-2026",
         "Allowoffline": false
     },
     {
         "device_id": "device123",
         "key": "key12345",
-        "expirydate": "31-12-2025",
+        "expirydate": "04-04-2026",
         "Allowoffline": false
     },
     {
